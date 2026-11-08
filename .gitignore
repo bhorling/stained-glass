@@ -7,10 +7,6 @@
 *~lock~
 *.autosave
 
-# Local custom designs
-Belmont Library Logo*
-Massachusetts*
-
 # Editor / OS backups
 *~
 *.swp
