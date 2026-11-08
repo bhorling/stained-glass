@@ -1,0 +1,30 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "$fn": "64",
+            "glass_svg": "examples/test.svg",
+            "glass_thickness": "2.8000000000000007",
+            "lip_overhang": "0.5",
+            "lip_thickness": "0.5",
+            "show_glass": "true",
+            "svg_dpi": "96",
+            "svg_is_pixels": "true",
+            "xy_clearance": "0.25",
+            "z_clearance": "0.29999999999999999"
+        },
+        "New set 2": {
+            "$fn": "64",
+            "glass_thickness": "2.7999999999999998",
+            "include_island": "true",
+            "island_id": "island",
+            "lip_overhang": "0.20000000000000001",
+            "lip_thickness": "0.40000000000000002",
+            "show_glass": "true",
+            "svg_dpi": "96",
+            "svg_is_pixels": "true",
+            "xy_clearance": "0.16",
+            "z_clearance": "-0"
+        }
+    }
+}

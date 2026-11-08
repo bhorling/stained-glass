@@ -1,0 +1,17 @@
+# macOS metadata
+.DS_Store
+._*
+
+# Affinity temp and lock files
+*.af
+*~lock~
+*.autosave
+
+# Local custom designs
+Belmont Library Logo*
+Massachusetts*
+
+# Editor / OS backups
+*~
+*.swp
+*.bak

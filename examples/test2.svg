@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="101px" height="102px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(0.32,0,0,0.32,-285.44,-93.44)">
+        <g>
+            <g id="outside">
+                <path d="M892.5,600L892.5,300C892.5,295.858 895.858,292.5 900,292.5L1199.404,292.5C1203.546,292.5 1206.904,295.858 1206.904,300L1206.904,449.999L1206.904,450.028L1206.904,600C1206.904,604.142 1203.546,607.5 1199.404,607.5L900,607.5C898.721,607.5 897.516,607.18 896.463,606.615C895.828,606.276 895.232,605.838 894.697,605.303C894.162,604.768 893.724,604.172 893.385,603.537C892.82,602.483 892.5,601.279 892.5,600Z" style="fill:none;stroke:black;stroke-width:1px;"/>
+            </g>
+            <g id="inside">
+                <path d="M1045.007,592.5L1120.931,436.216C1111.284,430.601 1102.287,423.991 1094.08,416.526L918.107,592.5L1045.007,592.5Z" style="fill:none;stroke:black;stroke-width:1px;"/>
+                <path d="M1057.694,307.5C1058.74,327.626 1063.968,346.653 1072.529,363.726L1072.533,363.734C1079.429,377.486 1088.487,389.971 1099.258,400.742C1109.502,410.986 1121.296,419.68 1134.256,426.439C1151.675,435.524 1171.203,441.112 1191.904,442.274L1191.904,307.5L1057.694,307.5Z" style="fill:none;stroke:black;stroke-width:1px;"/>
+                <path d="M1191.904,457.295C1171.41,456.255 1151.945,451.289 1134.245,443.137L1061.684,592.5L1191.904,592.5L1191.904,457.295Z" style="fill:none;stroke:black;stroke-width:1px;"/>
+                <path d="M907.5,581.893L1083.474,405.92C1075.495,397.148 1068.492,387.473 1062.638,377.066L907.5,454.635L907.5,581.893Z" style="fill:none;stroke:black;stroke-width:1px;"/>
+                <path d="M907.5,437.865L1055.915,363.657C1048.25,346.349 1043.611,327.405 1042.676,307.5L907.5,307.5L907.5,437.865Z" style="fill:none;stroke:black;stroke-width:1px;"/>
+            </g>
+        </g>
+    </g>
+</svg>
