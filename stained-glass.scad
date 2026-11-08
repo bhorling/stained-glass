@@ -34,8 +34,8 @@
 // ==============================================================================
 
 /* [File Settings] */
-// SVG file to import (select from list or type filename)
-glass_svg         = "examples/test.svg"; // [examples/test.svg, examples/test2.svg]
+// SVG file to import (enter path or drag-and-drop from Finder)
+glass_svg         = "examples/test.svg";
 
 // Export DPI from Affinity Designer (96 matches Glowforge standard)
 svg_dpi           = 96;
