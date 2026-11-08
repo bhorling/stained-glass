@@ -8,7 +8,10 @@ An OpenSCAD parametric generator for creating 3D printed lead-came-style frames 
    - Export an SVG at 96 DPI with **Flatten transforms** enabled.
    - Organize elements using layer/group IDs:
      - `outside`: Outer frame perimeter and hanging loops (use Boolean Subtract for holes).
-     - `inside`: Acrylic glass shapes to laser cut.
+     - `inside`: Default acrylic glass shapes to laser cut (uses `glass_thickness`).
+     - `inside-X`: Custom thickness acrylic groups to prevent rattling (e.g. `inside-2.8`, `inside-2.7`).
+       * Naming a group `inside 2.8` in Affinity Designer automatically exports as `inside-2.8`.
+       * The generator automatically raises the pocket floor for thinner panes so the tops remain flush at a single pause height.
      - `island`: (Optional) Solid floating features inside a pane (e.g. eye of a bird) with outward retaining lips.
 2. **Laser Cut Acrylic**:
    - Cut the `inside` paths directly on a laser cutter (e.g., Glowforge).
@@ -30,5 +33,5 @@ An OpenSCAD parametric generator for creating 3D printed lead-came-style frames 
 ## Project Structure
 
 - `stained-glass.scad`: Main OpenSCAD generator script.
-- `stained-glass.json`: OpenSCAD Customizer presets.
+- `stained-glass.json.example`: Sample Customizer presets. (Copy to `stained-glass.json` for local use).
 - `examples/`: Sample test SVGs, affinity source files, and test models.

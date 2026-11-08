@@ -1,0 +1,35 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "Standard 3mm Acrylic": {
+            "$fn": "64",
+            "glass_svg": "examples/test.svg",
+            "glass_thickness": "3.0",
+            "max_thickness": "3.0",
+            "lip_overhang": "0.5",
+            "lip_thickness": "0.5",
+            "xy_clearance": "0.25",
+            "z_clearance": "0.3",
+            "svg_dpi": "96",
+            "svg_is_pixels": "true",
+            "show_glass": "true",
+            "include_island": "true",
+            "island_id": "island"
+        },
+        "Thin 2.85mm Acrylic": {
+            "$fn": "64",
+            "glass_svg": "examples/test.svg",
+            "glass_thickness": "2.85",
+            "max_thickness": "2.85",
+            "lip_overhang": "0.5",
+            "lip_thickness": "0.5",
+            "xy_clearance": "0.25",
+            "z_clearance": "0.3",
+            "svg_dpi": "96",
+            "svg_is_pixels": "true",
+            "show_glass": "true",
+            "include_island": "true",
+            "island_id": "island"
+        }
+    }
+}

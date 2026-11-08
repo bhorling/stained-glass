@@ -11,3 +11,8 @@
 *~
 *.swp
 *.bak
+
+# Local custom presets and designs
+stained-glass.json
+Belmont Library Logo*
+Massachusetts*
